@@ -1,16 +1,27 @@
 /* Name: Kinley Cummins
 Date: 7/24/25
 Filename: styles.css */
+
+
 html {
   scroll-behavior: smooth;
 }
 
-section {
-  padding: 60px 0;
+h1{
+    font-family: "Knewave", system-ui;
 }
 
-#heading{
+section {
+  padding: 60px 0;
+  background-color: rgb(170, 228, 253);
+}
+
+#heading {
     background-color: rgba(243,217,12,255);
+}
+
+header{
+    background-color: rgb(243, 241, 172);
 }
 
 .top-image {
@@ -21,6 +32,11 @@ section {
 
 body {
   padding-top: 56px;
+  background-color: rgb(243, 241, 172);
+}
+
+#gallery{
+    /* add color or image, undecided */
 }
 
 .carousel-wrapper img {
