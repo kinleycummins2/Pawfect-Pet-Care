@@ -35,10 +35,6 @@ body {
   background-color: rgb(243, 241, 172);
 }
 
-#gallery{
-    /* add color or image, undecided */
-}
-
 .carousel-wrapper img {
   width: 100%;
   height: auto;
